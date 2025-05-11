@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+insightface
+numpy
+opencv-python
+tqdm
+onnxruntime-gpu
+seaborn
+matplotlib

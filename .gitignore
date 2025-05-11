@@ -1,0 +1,11 @@
+.vscode
+venv
+
+dataset
+casia-webface
+casia-webface.txt
+lfw_funneled
+face_embeddings.pkl
+
+videos
+out
