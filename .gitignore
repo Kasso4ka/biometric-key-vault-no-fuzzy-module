@@ -1,5 +1,6 @@
 .vscode
 venv
+senv
 
 dataset
 casia-webface
@@ -8,4 +9,7 @@ lfw_funneled
 face_embeddings.pkl
 
 videos
-out
+
+__pycache__
+
+rec.onnx
